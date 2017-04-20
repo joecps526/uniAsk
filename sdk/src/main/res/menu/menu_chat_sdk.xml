@@ -11,6 +11,7 @@
     <item android:id="@+id/contact_developer"
         android:title="@string/action_contact_developer"
         android:orderInCategory="101"
+        android:visible="false"
         app:showAsAction="never" />
 
 </menu>
