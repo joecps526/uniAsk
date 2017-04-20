@@ -1,0 +1,50 @@
+<resources>
+   <string name="app_name">UniAsk</string>
+   <string name="menuitem_edit">Edit</string>
+   <string name="menuitem_delete">Delete</string>
+   <string name="menuitem_rate">Rate</string>
+   <string name="hint_user_name_required">User Name (Required)</string>
+   <string name="hint_name_required">Name (Required)</string>
+   <string name="hint_email">E-Mail</string>
+   <string name="hint_pw">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+   <string name="hint_phone">Phone</string>
+   <string name="hint_category">Category</string>
+   <string name="hint_title">Title</string>
+   <string name="hint_question">Question</string>
+   <string name="label_user_name">User Name:</string>
+   <string name="label_name">Name:</string>
+   <string name="label_email">E-Mail:</string>
+   <string name="label_phone">Phone:</string>
+   <string name="label_category">Category:</string>
+   <string name="label_title">Title:</string>
+   <string name="label_question">Question:</string>
+   <string name="label_photo">Photo:</string>
+   <string name="label_select_photo">Select Photo</string>
+   <string name="label_rating">Rating</string>
+   <string name="label_status">Status:</string>
+   <string name="label_time_asked">Time asked:</string>
+   <string name="label_time_closed">Time closed:</string>
+   <string name="label_time_elapsed">Time elapsed:</string>
+   <string name="confirm_title">Are You Sure?</string>
+   <string name="confirm_message">This will permanently delete the question</string>
+   <string name="button_cancel">Cancel</string>
+   <string name="button_delete">Delete</string>
+   <string name="contact_added">Question added successfully</string>
+   <string name="contact_not_added">Question was not added due to an error</string>
+   <string name="contact_updated">Question updated</string>
+   <string name="contact_not_updated">Question was not updated due to an error</string>
+   <string name="invalid_query_uri">Invalid query Uri: </string>
+   <string name="invalid_insert_uri">Invalid insert Uri: </string>
+   <string name="invalid_update_uri">Invalid update Uri: </string>
+   <string name="invalid_delete_uri">Invalid delete Uri: </string>
+   <string name="insert_failed">Insert failed:</string>
+   <string name="business">Business</string>
+   <string name="engineering">Engineering</string>
+   <string-array name="category">
+      <item>@string/business</item>
+      <item>@string/engineering</item>
+   </string-array>
+   <string name="description_zoom_touch_close">Expanded image (touch to close)</string>
+</resources>

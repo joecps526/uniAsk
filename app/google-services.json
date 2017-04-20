@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "324083554093",
+    "firebase_url": "https://uniaskb.firebaseio.com",
+    "project_id": "uniaskb",
+    "storage_bucket": "uniaskb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324083554093:android:55b96633bb34c794",
+        "android_client_info": {
+          "package_name": "com.braunster.androidchatsdk.firebaseplugin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324083554093-4n8ftsbj911e7h8cjbql1494nkjt6cbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGfAPI19tuWOcVZek0thCzdS2RKysJNTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324083554093:android:4c03e120ff106b1c",
+        "android_client_info": {
+          "package_name": "com.deitel.addressbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324083554093-4n8ftsbj911e7h8cjbql1494nkjt6cbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGfAPI19tuWOcVZek0thCzdS2RKysJNTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
