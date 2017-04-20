@@ -74,7 +74,7 @@ public class ContactsAdapter
       cursor.moveToPosition(position);
       holder.setRowID(cursor.getLong(cursor.getColumnIndex(Contact._ID)));
       holder.textView.setText(cursor.getString(cursor.getColumnIndex(
-         Contact.COLUMN_NAME)));
+         Contact.COLUMN_TITLE)));
    }
 
    // returns the number of items that adapter binds

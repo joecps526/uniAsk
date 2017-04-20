@@ -142,7 +142,7 @@ public class ContactsFragment extends Fragment
                null, // null projection returns all columns
                null, // null selection returns all rows
                null, // no selection arguments
-               Contact.COLUMN_NAME + " COLLATE NOCASE ASC"); // sort order
+               Contact.COLUMN_TITLE + " COLLATE NOCASE ASC"); // sort order
          default:
             return null;
       }
