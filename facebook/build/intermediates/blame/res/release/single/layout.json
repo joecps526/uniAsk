@@ -1,7 +1,11 @@
 [
     {
-        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_placepickerfragment_list_row.xml",
-        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_placepickerfragment_list_row.xml"
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_placepickerfragment_list_row.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_activity_circle_row.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_activity_circle_row.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_activity_circle_row.xml",
@@ -20,14 +24,6 @@
         "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_image.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_search_box.xml",
-        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_search_box.xml"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_tooltip_bubble.xml",
-        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_tooltip_bubble.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_search_bar_layout.xml",
         "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_search_bar_layout.xml"
     },
@@ -36,12 +32,12 @@
         "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_placepickerfragment.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_list_section_header.xml",
-        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_list_section_header.xml"
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_list_section_header.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_list_section_header.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_list_row.xml",
-        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_list_row.xml"
+        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_list_section_header.xml",
+        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_list_section_header.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_checkbox.xml",
@@ -52,11 +48,75 @@
         "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_friendpickerfragment.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_login_activity_layout.xml",
-        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_login_activity_layout.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_title_bar_stub.xml",
         "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_title_bar_stub.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_friendpickerfragment.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_search_bar_layout.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_image.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_placepickerfragment.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_checkbox.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_placepickerfragment_list_row.xml",
+        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_login_activity_layout.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_title_bar.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_search_box.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_search_box.xml",
+        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_list_row.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_picker_list_row.xml",
+        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_usersettingsfragment.xml",
+        "source": "C:\\AndroidStudioProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_login_activity_layout.xml",
+        "source": "D:\\AndroidProjects\\QuestionDatabase-master\\facebook\\res\\layout\\com_facebook_login_activity_layout.xml"
     }
 ]
